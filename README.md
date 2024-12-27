@@ -34,7 +34,7 @@
  <h3>Setup</h3>
         <ol>
   <li>Clone this repository:
-   <pre><code>git clone (https://github.com/Usamn01/Library-Management-System)</code></pre>
+   <pre><code>git clone (https://github.com/UsamnSaleem004/Library-Management-System)</code></pre>
  </li>
 <li>Move to the project directory:
  <pre><code>cd Library-Management-System</code></pre>
